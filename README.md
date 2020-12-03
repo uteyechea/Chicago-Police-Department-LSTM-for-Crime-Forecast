@@ -1,2 +1,3 @@
-# crime-prediction-using-artificial-intelligence
-Crime time series prediction using a Recurrent Neural Network for the city of Chicago. 
+Crime time series prediction using a Recurrent Neural Network(LSTM) for the city of Chicago. 
+
+The Global Peace Index ranks Mexico 16th in terms of insecurity. Annual losses due to crime are approximately 10% of Mexico GDP. Recently, insecurity in Mexico has decreased, mainly due to prevention policies for COVID-19; unfortunately, this is a transitory effect. On the other hand, technological modernization in police departments has generated large data sets, which can be used in the prediction of crimes, with the aim of reducing them. This article describes a proposal to identify the pattern in the spatio-temporal distribution of the amount of crimes per unit of time. The proposed model, a stacked LSTM recurrent neural network, predicts the occurrence of a crime with an average positive correlation of 0.599, for a future time window of nine days, starting from the last date that a crime was recorded.
